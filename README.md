@@ -13,6 +13,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor front-end apaixonado por tecnologia e inovação e em constante aprendizado :D
+💻 Desenvolvedor front-end apaixonado por tecnologia e inovação e em constante aprendizado!
   
 
